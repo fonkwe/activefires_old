@@ -5,7 +5,6 @@ export default function NavBar() {
     <div className="top-nav" id="topest">
     <h1>ActiveFires Project</h1>
     <div className="links">
-    <a href="#foot1">About</a>
     <a href="#yu">Contact</a>
     </div>
 </div>
